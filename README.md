@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌸 Sakkhi — Your Companion for Postpartum Healing (Team : CodeZen)
 
 > “We ask about the baby. But who asks the mother how she’s doing?”
@@ -8,21 +7,7 @@ Sakkhi is **India’s first mother-first emotional wellness platform**, helping 
 ## 🌐 Live Demo
 
 You can explore the deployed version of **Sakkhi** here:  
-👉 [https://sakkhi-swart.vercel.app/](https://sakkhi-swart.vercel.app/)
-
----
-
-## ✅ Post-Deadline Deployment Note [10-07-2025 12:15 AM]
-
-We completed all development work, features, final touches, and deployment *before the official deadline (09-07-2025 11:30 PM)*.
-
-However, some of the final commits were not reflecting on the deployed link due to syncing delays.
-
-We reached out to the organizer *Ayan Ahmed Khan, and with his permission, we redeployed the **same project without any code changes* to ensure the live version reflects our actual final work.
- 
-🕒 Only the deployment was refreshed to sync with the latest commits.
-
-✅ Organizer Permission Confirmed by: *Ayan Ahmed Khan (HackOrbit Team)*
+👉 [https://sakkhi-dun.vercel.app/](https://sakkhi-dun.vercel.app/)
 
 ---
 
@@ -70,8 +55,8 @@ What Sakkhi offers:
 ## ✨ Features
 
 - 🎙️ **Suno Khud Ko**: Mood and voice check-ins analyzed using NLP  
-- 🪞 **MyReflection**: Auto-built healing timeline  
-- 🧘 **SootheSpace**: 3-min micro-rituals (breathe, affirm, ground)  
+- 🪞 **MyReflection**: Auto-built healing timeline with period tracker
+- 🧘 **SootheSpace**: 3-min micro-rituals (breathe, affirm, ground) and 2 min, 5min, 10min timers for box breathing 
 - 🫂 **Circle of One**: Anonymous support rooms based on experience  
 - 📚 **Bharosa Library**: Stories from Indian moms who broke the silence  
 
@@ -126,120 +111,6 @@ Sakkhi is thoughtfully built using the principles of **Human-Centered Design (HC
 ---
 
 > “This isn't just an MVP. Sakkhi is a space that *listens* before it speaks — built slowly, carefully, and humanely.”
-
-## 📍 Hackathon Checkpoints
-
-> ✏️ Filling in the updates after every checkpoint
-
-### ✅ Checkpoint 1 – [08-07-2025 1:00 PM]
-
-- Finalized problem, research, and solution direction  
-- Defined core features and user experience  
-- Set up GitHub repo and README  
-- Assigned team roles and initial tech stack
-- Finalized reference design for project
-- Uploaded PPT of Problem Statement & Proposed Solution
-
----
-
-### ✅ Checkpoint 2 – [08-07-2025 2:15 PM]
-
-- Created folder structure
-- Initialized React app and started React Router setup
-- Created base routes for main pages (Home, Dashboard, etc.)
-- Continued backend planning for check-in and sentiment endpoints
-- Updated README
-
----
-
-### ✅ Checkpoint 3 – [08-07-2025 4:09 PM]
-
-- Started building the Home Page UI, designed other pages UI but will be enhancing it more in future
-- Set up React Router with working paths for all core pages
-- Now fully able to navigate between views (Landing, Dashboard, etc.)
-- Frontend structure now stable for feature integration
-- Updated README
-
----
-
-### ✅ Checkpoint 4 – [08-07-2025 6:04 PM]
-
-- Completed the full Landing Page UI
-- Designed all remaining pages (Dashboard, Check-in, Peer Room, etc.)
-- Started implementing authentication flow
-- Frontend structure now fully ready for functional integration
-- Updated README
-
----
-
-### ✅ Checkpoint 5 – [08-07-2025 8:18 PM]
-
-- Completed all three main pages
-- Started working on backend logic (routes & controllers)
-- Prepared frontend to start connecting with backend functions
-- Updated README
-
----
-
-## 🔄 Additional Commits (Between Checkpoints)
-
-#### 📌 [09-07-2025 12:37 AM] 
-- Set up backend file structure
-- Added frontend microinteractions for smoother user experience
-- Updated README
-
----
-
-### ✅ Checkpoint 1 – [09-07-2025 2:17 PM]
-
-- No commits made at this time
-- Implemented feedback received from mentor session
-- Made changes locally based on suggestions
-- Tested minor improvements, but did not push any files to GitHub
-- Updated README
-
----
-
-### ✅ Checkpoint 2 – [09-07-2025 4:18 PM]
-
-- Made core features functional
-- Connected UI elements with functional logic
-- Improved interaction between components (basic working structure done)
-- Prepared pages for upcoming integrations
-- Updated README
-
----
-
-### ✅ Checkpoint 3 – [09-07-2025 6:38 PM]
-
-- Fixed major and minor UI/UX bugs across pages
-- Added relevant media (images/icons) where required
-- Made 4 main tabs fully functional with proper routing and working logic
-- Improved overall frontend experience and responsiveness
-- Updated README
-
----
-
-### ✅ Checkpoint 4 – [09-07-2025 9:07 PM]
-
-- Gave final UI and UX polish to the entire platform
-- All tabs are now built and functional (Almost)
-- Integrated remaining features as planned (Almost)
-- Verified responsiveness across devices
-- Cleaned up codebase and finalized layouts
-- Updated README
-
----
-
-### ✅ Checkpoint Last – [09-07-2025 11:26 PM]
-- Final touches to all major sections of the website  
-- Ensured full responsiveness across devices  
-- Fixed all pending bugs and UI glitches  
-- Completed integration of all core features  
-- Cleaned up the codebase and removed unused files  
-- Added screenshots, updated README, and verified deployment
-
----
 
 # 🌸 Sakkhi — Website
 
@@ -339,8 +210,3 @@ Contact the developers Team : CodeZen
 - Tanush Gupta – tanushgupta006work@gmail.com
 
 
-#   U p d a t e d   2 0 2 5 - 1 1 - 1 4  
- 
-=======
-# Sakkhi-KodeKalesh
->>>>>>> 77dd07a30858de6b342a9f14e2b5d785260e7931
