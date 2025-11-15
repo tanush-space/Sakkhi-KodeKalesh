@@ -7,7 +7,7 @@ Sakkhi is **India’s first mother-first emotional wellness platform**, helping 
 ## 🌐 Live Demo
 
 You can explore the deployed version of **Sakkhi** here:  
-👉 [https://sakkhi-dun.vercel.app/](https://sakkhi-dun.vercel.app/)
+👉 [https://sakkhi-ten.vercel.app/](https://sakkhi-ten.vercel.app/)
 
 ---
 
